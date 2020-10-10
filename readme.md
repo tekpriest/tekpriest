@@ -10,6 +10,8 @@ Self taught Full Stack Developer, aspiring function programming polygot and hope
 <!-- 📺 Youtube: -->
 [🐦@strae_dev](https://twitter.com/strae_dev) <br />
 [👨‍💼Asaju Enitan Michael](https://linkedin.com/in/asaju-enitan-michael) <br />
-[📭 asajuenitan@gmail.com](mailto:asajuenitan@gmail.com)
+[📭 asajuenitan@gmail.com](mailto:asajuenitan@gmail.com) <br />
+<br />
+[![time tracker](https://wakatime.com/badge/github/en1tan/en1tan.svg)](https://wakatime.com/badge/github/en1tan/en1tan)
 
 ![En1tan's language stats](https://wakatime.com/share/@x1k/aa8c6207-505c-48fd-a036-93e518ba6c2c.svg)
