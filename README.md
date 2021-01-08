@@ -1,6 +1,6 @@
 # Asaju Enitan Michael
 
-Self taught Full Stack Developer, aspiring function programming and hope to make the world embrace OOP
+Self taught Software Developer, aspiring function programming and hope to make the world embrace OOP
 
 <p align="center">
     <a href="https://strae.dev/"><img src="https://github.com/en1tan/en1tan/raw/main/me.svg?sanitize=true" alt="Me" height="70" /></a>
