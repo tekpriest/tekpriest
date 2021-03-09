@@ -5,11 +5,11 @@
 </p>
 <!--START_SECTION:waka-->
 ```text
-JavaScript   22 hrs 21 mins  ███████████████████▓░░░░░   78.34 % 
-TypeScript   4 hrs 29 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-JSON         43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Git Config   18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 % 
-VimL         15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+JavaScript   21 hrs 28 mins  ████████████████████▒░░░░   80.78 % 
+TypeScript   3 hrs 17 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
+Markdown     31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+YAML         29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+Other        25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 ```
 <!--END_SECTION:waka-->
 <p align="center">
