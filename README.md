@@ -20,4 +20,3 @@ Other        25 mins         ▒░░░░░░░░░░░░░░░░
    <a href="https://instagram.com/strae_dev"><img src='https://github.com/en1tan/en1tan/raw/main/photos.svg?sanitize=true' alt="Photos" title="Photos" height='70'/></a>
   <!--<a href="https://github.com/sponsors/en1tan"><img src='https://github.com/en1tan/entan/raw/main/sponsor.svg?sanitize=true' alt="Sponsor" title="Sponsor" height='70'/></a>-->
 </p>
-![Enitan's GitHub stats](https://github-readme-stats.vercel.app/api?username=en1tan&theme=algolia&show_icons=true)
