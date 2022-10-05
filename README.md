@@ -40,6 +40,6 @@ and ultra backend person</p>
 
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=en1tan&show_icons=true&locale=en&layout=compact" alt="en1tan" /></p>
+<!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=en1tan&show_icons=true&locale=en&layout=compact" alt="en1tan" /></p>-->
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=en1tan&show_icons=true&locale=en" alt="en1tan" /></p>
+<!--<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=en1tan&show_icons=true&locale=en" alt="en1tan" /></p>-->
