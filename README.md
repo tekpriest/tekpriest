@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Tech Priest</h1>
-<p align="center">I love everything programming, simulations, low level stuffs
-and ultra backend person</p>
+<p align="center">I love everything programming, simulations, low level stuffs</p>
 
 <!-- <p align="center"> -->
 <!--     <a href="https://tpriest.dev/"><img src="https://github.com/en1tan/en1tan/raw/main/me.svg?sanitize=true" alt="Me" height="70" /></a> -->
