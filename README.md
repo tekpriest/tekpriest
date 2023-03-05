@@ -10,9 +10,9 @@
 <!--   <a href="https://github.com/sponsors/en1tan"><img src='https://github.com/en1tan/en1tan/raw/main/sponsor.svg?sanitize=true' alt="Sponsor" title="Sponsor" height='70'/></a> -->
 <!-- </p> -->
 
-<p align="center">
+<!--<p align="center">
 <img src="https://komarev.com/ghpvc/?username=tekpriest&label=Profile%20views&color=0e75b6&style=flat" alt="tekpriest" />
-</p>
+</p>-->
 
 <p align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
