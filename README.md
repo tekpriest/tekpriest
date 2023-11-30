@@ -27,6 +27,7 @@
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" alt="javascript" width="30" height="40"/> </a>
 <a href="https://ziglang.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/374210/zig.svg" alt="ziglang" width="60" height="40"/> </a>
 <a href="https://go.dev/" target="_blank" rel="noreferrer"> <img src="https://go.dev/images/go-logo-white.svg" alt="golang" width="40" height="40"/> </a>
+<a href="https://elixir-lang.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/1481354?s=48&v=4" alt="elixir" width="40" height="40" /> </a>
 </p>
 <h3 align="center">Tools</h3>
 <p align="center">
