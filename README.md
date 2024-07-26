@@ -20,7 +20,7 @@
 </a>
 </p>
 
-<p align="center"> <a href="https://twitter.com/tpryst" target="blank"><img src="https://img.shields.io/twitter/follow/tpryst?logo=twitter&style=for-the-badge" alt="tekpriest" /></a> </p>
+<!-- <p align="center"> <a href="https://twitter.com/tpryst" target="blank"><img src="https://img.shields.io/twitter/follow/tpryst?logo=twitter&style=for-the-badge" alt="tekpriest" /></a> </p>-->
 
 <h3 align="center">Languages</h3>
 <p align="center">
